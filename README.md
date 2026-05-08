@@ -1,16 +1,89 @@
-# React + Vite
+# 🚀 AI/ML Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/TailwindCSS-Styling-38BDF8?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Vite-Build-646CFF?style=for-the-badge&logo=vite" />
+  <img src="https://img.shields.io/badge/Framer-Motion-EF008F?style=for-the-badge&logo=framer" />
+</p>
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<h2 align="center">
+  🌐 Modern AI/ML & Data Science Portfolio
+</h2>
 
-## React Compiler
+<p align="center">
+  A futuristic and responsive developer portfolio built using React, Tailwind CSS, and Framer Motion showcasing projects, skills, and AI-powered innovations.
+</p>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ Modern Responsive UI  
+✅ Dynamic Animated Background  
+✅ Typing Animation Effects  
+✅ Smooth Scroll & Hover Animations  
+✅ AI/ML Focused Portfolio Design  
+✅ Mobile Responsive Navbar  
+✅ Project Showcase Section  
+✅ Contact & Social Links  
+✅ Fast Performance using Vite  
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| React.js | Frontend |
+| Tailwind CSS | Styling |
+| Framer Motion | Animations |
+| React Icons | Icons |
+| Vite | Build Tool |
+
+---
+
+## 📂 Featured Projects
+
+### 🌱 AgriSphere
+Smart Agriculture platform integrating IoT sensors, AI insights, environmental monitoring and automation.
+
+### 💳 IntelliCredit AI
+AI-powered credit risk analysis platform using RAG, analytics and intelligent financial document processing.
+
+### ⚡ AI Compliance Intelligence Platform
+AI-driven compliance monitoring system with regulation extraction, deadline tracking and predictive analytics.
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  Add your portfolio screenshot here
+</p>
+
+---
+
+## 🚀 Deployment
+
+Deployed using **Vercel** for fast and seamless hosting.
+Link : https://portfolio-page-seven-liard.vercel.app
+---
+
+## 📬 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/singhanshumanv
+    GitHub
+  </a>
+  •
+  <a href="https://linkedin.com/in/anshumankrsingh07"
+    LinkedIn
+  </a>
+</p>
+
+---
+
+
