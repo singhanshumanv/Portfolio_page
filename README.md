@@ -68,22 +68,7 @@ AI-driven compliance monitoring system with regulation extraction, deadline trac
 
 ## 🚀 Deployment
 
-Deployed using **Vercel** for fast and seamless hosting.
+Deployed using **Vercel** for fast and seamless hosting.<br>
 Link : https://portfolio-page-seven-liard.vercel.app
 ---
-
-## 📬 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/singhanshumanv
-    GitHub
-  </a>
-  •
-  <a href="https://linkedin.com/in/anshumankrsingh07"
-    LinkedIn
-  </a>
-</p>
-
----
-
 
